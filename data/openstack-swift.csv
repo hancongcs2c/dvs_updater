@@ -1,0 +1,419 @@
+"Name","Email","Affliation","Date","Added","Removed","Changesets"
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-05-01",0,0,6
+"gholt","gholt@rackspace.com","Rackspace","2012-07-01",150,31,4
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-09-01",0,0,22
+"Felipe Reyes","freyes@tty.cl","(Unknown)","2012-01-01",8,20,1
+"Chuck Thier","cthier@gmail.com","Rackspace","2011-09-01",5,2,4
+"Soren Hansen","soren@linux2go.dk","Nebula","2010-08-01",1,1,2
+"Greg Lange","greglange@gmail.com","Rackspace","2012-05-01",1598,460,1
+"Monty Taylor","mordred@inaugust.com","HP","2013-04-01",38,30,1
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2011-10-01",131,63,3
+"Andrew Clay Shafer","acs@parvuscaptus.com","(Unknown)","2010-08-01",6,2,2
+"Pete Zaitcev","zaitcev@kotori.zaitcev.us","Red Hat","2013-04-01",2,0,1
+"ning_zhang","ning@zmanda.com","(Unknown)","2012-08-01",7,0,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2010-11-01",29,25,4
+"Greg Lange","greglange@gmail.com","Rackspace","2013-04-01",123,4,1
+"Derek Higgins","derekh@redhat.com","Red Hat","2012-03-01",4,4,1
+"gholt","gholt@rackspace.com","Rackspace","2011-02-01",1893,678,34
+"Doug Weimer","dougw@sdsc.edu","(Unknown)","2012-02-01",98,22,3
+"Clark Boylan","clark.boylan@gmail.com","Intel","2012-08-01",1,0,1
+"annegentle","anne@openstack.org","Rackspace","2010-11-01",884,326,25
+"Victor Rodionov","vito.ordaz@gmail.com","(Unknown)","2013-04-01",2,2,1
+"Julien Danjou","julien.danjou@enovance.com","eNovance","2011-12-01",4,2,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-05-01",0,0,17
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2011-03-01",421,138,10
+"Brent Roskos","broskos@internap.com","Internap","2012-05-01",9,3,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-12-01",6,2,1
+"Chuck Thier","cthier@gmail.com","Rackspace","2013-02-01",3,1,2
+"gholt","gholt@rackspace.com","Rackspace","2010-10-01",288,12,8
+"John Dickinson","me@not.mn","SwiftStack","2012-09-01",340,80,7
+"FUJITA Tomonori","fujita.tomonori@lab.ntt.co.jp","NTT","2011-01-01",976,165,22
+"Dae S. Kim","dae@velatum.com","(Unknown)","2013-02-01",3,51,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2013-02-01",1501,453,5
+"Chuck Thier","cthier@gmail.com","Rackspace","2011-02-01",87,53,12
+"Jian Zhang","jian.zhang@intel.com","Intel","2013-02-01",17,0,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2012-10-01",27,9,3
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-11-01",754,421,14
+"David Goetz","david.goetz@rackspace.com","Rackspace","2013-03-01",40,70,4
+"Christian Schwede","info@cschwede.de","(Unknown)","2013-04-01",41,24,1
+"Dan Prince","dprince@redhat.com","Red Hat","2012-11-01",2,2,1
+"John Dickinson","me@not.mn","Rackspace","2011-11-01",9,2,3
+"Florian Hines","florian.hines@gmail.com","Rackspace","2011-08-01",250,96,10
+"Chuck Thier","cthier@gmail.com","Rackspace","2010-09-01",509,70,17
+"Sergey Lukjanov","slukjanov@mirantis.com","Mirantis","2013-02-01",367,0,1
+"John Dickinson","me@not.mn","Rackspace","2011-08-01",94,77,18
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2013-03-01",713,444,10
+"gholt","gholt@rackspace.com","Rackspace","2011-10-01",2043,53,1
+"Victor Rodionov","victor.rodionov@nexenta.com","Nexenta","2012-05-01",137,19,2
+"Pete Zaitcev","zaitcev@kotori.zaitcev.us","Red Hat","2012-02-01",51,17,2
+"John Dickinson","me@not.mn","Rackspace","2012-05-01",685,695,7
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-10-01",0,0,32
+"John Dickinson","me@not.mn","SwiftStack","2012-07-01",31,7,4
+"John Dickinson","me@not.mn","Rackspace","2011-02-01",353,82,6
+"Clark Boylan","clark.boylan@gmail.com","Intel","2012-11-01",1,3,1
+"gholt","gholt@rackspace.com","Rackspace","2010-07-01",149,68,9
+"Kota Tsuyuzaki","tsuyuzaki.kota@lab.ntt.co.jp","NTT","2013-01-01",6,1,1
+"Edward Hope-Morley","opentastic@gmail.com","(Unknown)","2013-05-01",51,9,1
+"Dragos Manolescu","dragosm@hp.com","HP","2011-10-01",3,3,2
+"Tom Fifield","fifieldt@unimelb.edu.au","University of Melbourne","2012-10-01",557,440,2
+"Ionuț Arțăriși","iartarisi@suse.cz","SUSE","2012-06-01",196,45,2
+"annegentle","anne@openstack.org","Rackspace","2011-05-01",31,27,5
+"gholt","gholt@rackspace.com","Rackspace","2010-09-01",4695,1863,38
+"Monty Taylor","mordred@inaugust.com","HP","2012-03-01",9,7,2
+"annegentle","anne@openstack.org","Rackspace","2011-04-01",2,2,2
+"Florian Hines","florian.hines@gmail.com","Rackspace","2012-03-01",545,24,5
+"John Dickinson","me@not.mn","SwiftStack","2013-02-01",100,20,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2012-05-01",31,10,2
+"Darrell Bishop","darrell@swiftstack.com","SwiftStack","2012-04-01",1412,253,1
+"Ukov Dmitry","dukov@mirantis.com","Mirantis","2013-04-01",3,3,1
+"gholt","gholt@rackspace.com","Rackspace","2012-11-01",463,92,6
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2010-08-01",331,9,7
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-02-01",0,0,18
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2011-12-01",0,0,5
+"Michael Barton","mike@weirdlooking.com","Rackspace","2012-08-01",2438,2314,2
+"Jay Payne","letterj@racklabs.com","(Unknown)","2011-05-01",196,24,10
+"gholt","gholt@rackspace.com","Rackspace","2010-08-01",2139,169,18
+"gholt","gholt@rackspace.com","Rackspace","2012-01-01",244,22,6
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-08-01",129,37,9
+"lzyeval","lzyeval@gmail.com","SINA","2012-01-01",17,17,1
+"Julien Danjou","julien.danjou@enovance.com","eNovance","2012-03-01",1,1,1
+"Florian Hines","syn@ronin.io","Rackspace","2012-05-01",1223,439,2
+"Sascha Peilicke","saschpe@suse.de","SUSE","2012-12-01",60,0,1
+"Dean Troyer","dtroyer@gmail.com","Rackspace","2012-02-01",28,1,1
+"Thierry Carrez","thierry@openstack.org","Rackspace","2011-07-01",1,1,2
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2012-12-01",4,3,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-07-01",0,0,10
+"Russ Nelson","russ@crynwr.com","(Unknown)","2010-12-01",139,165,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2011-03-01",141,105,16
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-04-01",0,0,22
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-06-01",0,0,15
+"Jay Payne","letterj@racklabs.com","(Unknown)","2010-08-01",144,0,2
+"David Goetz","david.goetz@rackspace.com","Rackspace","2010-11-01",467,308,11
+"Vladimir Vechkanov","vvechkanov@mirantis.com","Mirantis","2013-03-01",5,9,1
+"Colin Nicholson","colin.nicholson@iomart.com","(Unknown)","2011-01-01",23,9,10
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2012-02-01",3,3,1
+"David Hadas","davidh@il.ibm.com","IBM","2013-03-01",372,45,3
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-05-01",68,43,3
+"John Dickinson","me@not.mn","Rackspace","2012-03-01",277,154,7
+"Soren Hansen","soren@linux2go.dk","Nebula","2011-05-01",59,6,5
+"Michael Barton","mike@weirdlooking.com","Rackspace","2012-03-01",57,64,2
+"Jay Payne","letterj@racklabs.com","(Unknown)","2011-01-01",5,3,3
+"Matthieu Huin","mhu@enovance.com","eNovance","2013-04-01",24,0,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2013-01-01",460,62,2
+"Monty Taylor","mordred@inaugust.com","HP","2013-01-01",74,89,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-04-01",120,6,8
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2010-11-01",2459,773,27
+"Michael Barton","mike@weirdlooking.com","Rackspace","2011-05-01",6,6,4
+"tong li","litong01@us.ibm.com","IBM","2012-08-01",2,2,1
+"Darrell Bishop","darrell@swiftstack.com","SwiftStack","2012-08-01",1154,459,9
+"Michael Barton","mike@weirdlooking.com","Rackspace","2013-02-01",75,43,2
+"Chuck Thier","cthier@gmail.com","Rackspace","2010-11-01",1,1,3
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-01-01",148,129,14
+"Jonathan Gonzalez V","jonathan.abdiel@gmail.com","(Unknown)","2012-02-01",30,29,1
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2011-11-01",9,18,2
+"Julien Danjou","julien@danjou.info","(Unknown)","2012-12-01",53,48,2
+"Alex Yang","alex890714@gmail.com","(Unknown)","2012-11-01",7,4,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2010-12-01",414,351,16
+"Michael Barton","mike@weirdlooking.com","Rackspace","2010-10-01",201,120,13
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-08-01",0,0,22
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-03-01",0,0,30
+"Eohyung Lee","liquid@kt.com","(Unknown)","2013-01-01",28,2,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-01-01",0,0,24
+"gholt","gholt@rackspace.com","Rackspace","2011-06-01",2037,2254,51
+"John Dickinson","me@not.mn","SwiftStack","2012-08-01",136,16,4
+"Chuck Thier","cthier@gmail.com","Rackspace","2010-08-01",1294,1237,20
+"Chuck Thier","cthier@gmail.com","Rackspace","2012-12-01",40,3,3
+"gholt","gholt@rackspace.com","Rackspace","2011-12-01",3629,60,4
+"Chmouel Boudjnah","chmouel@enovance.com","eNovance","2013-02-01",225,27,4
+"Scott Simpson","sasimpson@gmail.com","(Unknown)","2011-11-01",51,9,1
+"Chuck Thier","cthier@gmail.com","Rackspace","2011-03-01",14,3,7
+"Chuck Thier","cthier@gmail.com","Rackspace","2011-01-01",165,65,10
+"Joe Arnold","joe@swiftstack.com","SwiftStack","2012-11-01",2,1,1
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-10-01",207,107,6
+"David Goetz","david.goetz@rackspace.com","Rackspace","2013-01-01",1062,17,3
+"James E. Blair","jeblair@openstack.org","HP","2011-10-01",4,0,1
+"Florian Hines","florian.hines@gmail.com","Rackspace","2011-09-01",72,46,3
+"David Goetz","david.goetz@rackspace.com","Rackspace","2013-05-01",10,0,1
+"Conrad Weidenkeller","conrad.weidenkeller@rackspace.com","Rackspace","2010-11-01",38,6,7
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2011-10-01",0,0,7
+"François Charlier","francois.charlier@enovance.com","eNovance","2012-06-01",9,1,1
+"MORITA Kazutaka","morita.kazutaka@gmail.com","NTT","2012-08-01",10,3,1
+"Ionuț Arțăriși","iartarisi@suse.cz","SUSE","2012-04-01",12,12,3
+"Doug Weimer","dougw@sdsc.edu","(Unknown)","2012-03-01",2,1,1
+"Brent Roskos","broskos@internap.com","Internap","2012-01-01",9,6,1
+"gholt","gholt@rackspace.com","Rackspace","2012-08-01",131,20,6
+"Dragos Manolescu","dragosm@hp.com","HP","2011-11-01",2,1,1
+"jola-mirecka","jola.mirecka@hp.com","HP","2013-03-01",5,2,1
+"FUJITA Tomonori","fujita.tomonori@lab.ntt.co.jp","NTT","2011-03-01",62,5,7
+"Thierry Carrez","thierry@openstack.org","Rackspace","2011-05-01",1,1,2
+"gholt","gholt@rackspace.com","Rackspace","2010-12-01",5940,432,38
+"John Dickinson","me@not.mn","Rackspace","2011-09-01",1,1,1
+"Vincent Untz","vuntz@suse.com","SUSE","2012-07-01",53,1,1
+"Marcelo Martins","btorch@gmail.com","(Unknown)","2011-10-01",3148,0,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2012-09-01",1631,424,4
+"Constantine Peresypkin","constantine@litestack.com","(Unknown)","2012-10-01",7,0,1
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2013-01-01",66,7,4
+"gholt","gholt@rackspace.com","Rackspace","2013-02-01",237,30,4
+"Victor Rodionov","victor.rodionov@nexenta.com","Nexenta","2012-07-01",10,6,3
+"John Dickinson","me@not.mn","Rackspace","2011-05-01",174,85,9
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-03-01",0,0,25
+"Greg Lange","greglange@gmail.com","Rackspace","2012-10-01",278,181,2
+"Eohyung Lee","liquid@kt.com","(Unknown)","2013-04-01",19,10,1
+"FUJITA Tomonori","fujita.tomonori@lab.ntt.co.jp","NTT","2011-07-01",22,3,3
+"annegentle","anne@openstack.org","Rackspace","2011-01-01",126,126,2
+"Dan Prince","dprince@redhat.com","Red Hat","2012-06-01",11,117,2
+"MORITA Kazutaka","morita.kazutaka@gmail.com","NTT","2012-06-01",5,1,2
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-04-01",1055,400,2
+"James E. Blair","jeblair@openstack.org","HP","2011-09-01",136,0,1
+"Motonobu Ichimura","motonobu@gmail.com","(Unknown)","2013-01-01",3,1,1
+"Adrian Smith","adrian_f_smith@dell.com","Dell","2013-01-01",441,64,1
+"Kun Huang","gareth@unitedstack.com","(Unknown)","2013-04-01",50,20,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-04-01",0,0,33
+"Greg Lange","greglange@gmail.com","Rackspace","2012-06-01",249,197,4
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-02-01",3,0,2
+"Christopher MacGown","chris@pistoncloud.com","Piston Cloud","2013-01-01",51,8,1
+"John Dickinson","me@not.mn","Rackspace","2010-07-01",10,10,6
+"Scott Simpson","sasimpson@gmail.com","(Unknown)","2012-04-01",2,2,1
+"Marcelo Martins","btorch@gmail.com","(Unknown)","2011-07-01",2,0,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2010-10-01",1404,578,37
+"Jay Payne","letterj@racklabs.com","(Unknown)","2010-09-01",167,160,7
+"gholt","gholt@rackspace.com","Rackspace","2011-03-01",1974,3503,36
+"John Dickinson","me@not.mn","Rackspace","2012-04-01",66,12,4
+"Victor Rodionov","vito.ordaz@gmail.com","(Unknown)","2012-10-01",31,5,5
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2012-06-01",631,0,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-11-01",151,42,2
+"Derek Higgins","derekh@redhat.com","Red Hat","2012-10-01",1,1,1
+"Greg Lange","greglange@gmail.com","Rackspace","2011-01-01",18,3,2
+"Greg Lange","greglange@gmail.com","Rackspace","2011-03-01",534,73,9
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2011-09-01",2,2,1
+"Victor Lowther","victor.lowther@gmail.com","(Unknown)","2012-10-01",7,1,1
+"monsterxx03","xyj.asmy@gmail.com","(Unknown)","2012-02-01",2,2,1
+"John Dickinson","me@not.mn","Rackspace","2011-03-01",298,139,20
+"Michael Barton","mike@weirdlooking.com","Rackspace","2011-04-01",43,28,7
+"gholt","gholt@rackspace.com","Rackspace","2013-04-01",329,122,6
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2011-11-01",0,0,9
+"Rainer Toebbicke","rainer.toebbicke@cern.ch","CERN","2011-11-01",20,1,1
+"John Dickinson","me@not.mn","Rackspace","2012-01-01",1,137,2
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-12-01",0,0,21
+"Russell Bryant","rbryant@redhat.com","Red Hat","2012-02-01",37,4,2
+"Monty Taylor","mordred@inaugust.com","HP","2012-06-01",23,33,1
+"John Dickinson","me@not.mn","Rackspace","2011-12-01",584,240,2
+"John Dickinson","me@not.mn","SwiftStack","2012-11-01",484,226,11
+"Thierry Carrez","thierry@openstack.org","Rackspace","2012-05-01",3,0,1
+"John Dickinson","me@not.mn","Rackspace","2010-11-01",348,146,39
+"yuan-zhou","yuan.zhou@intel.com","Intel","2012-11-01",44,2,1
+"Adrian Smith","adrian_f_smith@dell.com","Dell","2012-04-01",16,7,1
+"Darrell Bishop","darrell@swiftstack.com","SwiftStack","2013-01-01",533,172,5
+"gholt","gholt@rackspace.com","Rackspace","2012-05-01",5630,5469,11
+"David Goetz","david.goetz@rackspace.com","Rackspace","2012-03-01",8,6,2
+"David Hadas","davidh@il.ibm.com","IBM","2013-04-01",126,34,3
+"Donagh McCabe","donagh.mccabe@hp.com","HP","2013-03-01",276,0,2
+"Darrell Bishop","darrell@swiftstack.com","SwiftStack","2012-09-01",52,5,2
+"Hodong Hwang","hodong.hwang@kt.com","(Unknown)","2013-01-01",10,10,1
+"Victor Rodionov","vito.ordaz@gmail.com","(Unknown)","2012-04-01",397,169,1
+"Jason Johnson","jajohnson@softlayer.com","(Unknown)","2012-11-01",3,3,1
+"Juan J. Martinez","juan@memset.com","Memset","2011-05-01",2,1,2
+"gholt","gholt@rackspace.com","Rackspace","2011-07-01",199,61,19
+"Dan Hersam","dan.hersam@hp.com","HP","2012-11-01",3,3,1
+"Donagh McCabe","donagh.mccabe@hp.com","HP","2012-11-01",5,2,1
+"Dan Prince","dprince@redhat.com","Red Hat","2012-12-01",202,202,1
+"John Dickinson","me@not.mn","Rackspace","2010-10-01",1345,1062,94
+"gholt","gholt@rackspace.com","Rackspace","2012-03-01",788,1567,14
+"Michael Barton","mike@weirdlooking.com","Rackspace","2012-11-01",587,353,8
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-06-01",283,110,12
+"Thierry Carrez","thierry@openstack.org","Rackspace","2012-01-01",10,104,2
+"Ewan Mellor","ewan.mellor@citrix.com","Citrix","2011-08-01",6,0,2
+"Greg Lange","greglange@gmail.com","Rackspace","2013-02-01",50,4,1
+"annegentle","anne@openstack.org","Rackspace","2012-04-01",3,3,1
+"Darrell Bishop","darrell@swiftstack.com","SwiftStack","2012-10-01",190,15,3
+"Michael Barton","mike@weirdlooking.com","Rackspace","2012-12-01",6,6,3
+"annegentle","anne@openstack.org","Rackspace","2010-10-01",157,76,12
+"Unknown hacker","unknown@hacker.net","(Unknown)","2010-08-01",0,0,1
+"Jesse Andrews","anotherjesse@gmail.com","Rackspace","2012-03-01",3,1,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2011-01-01",2582,1561,52
+"Chmouel Boudjnah","chmouel@enovance.com","eNovance","2013-03-01",23,29,1
+"Peter Portante","peter.portante@redhat.com","Red Hat","2012-11-01",120,56,3
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-02-01",483,203,17
+"annegentle","anne@openstack.org","Rackspace","2013-01-01",79,56,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2013-04-01",254,29,6
+"gholt","gholt@rackspace.com","Rackspace","2012-09-01",98,34,3
+"Pete Zaitcev","zaitcev@kotori.zaitcev.us","Red Hat","2013-02-01",9,139,2
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-02-01",55,20,1
+"Donagh McCabe","donagh.mccabe@hp.com","HP","2012-01-01",2,2,1
+"gholt","gholt@rackspace.com","Rackspace","2012-12-01",51,9,4
+"Eugene Kirpichov","ekirpichov@gmail.com","(Unknown)","2012-11-01",3,0,1
+"Eamonn O'Toole","eamonn.otoole@hp.com","HP","2012-03-01",306,60,2
+"Ray Chen","oldsharp@163.com","(Unknown)","2012-08-01",2,2,1
+"Vincent Untz","vuntz@suse.com","SUSE","2012-06-01",207,36,4
+"Russ Nelson","russ@crynwr.com","(Unknown)","2011-01-01",0,0,2
+"Christian Schwede","info@cschwede.de","(Unknown)","2013-03-01",299,2,2
+"Unknown hacker","unknown@hacker.net","(Unknown)","2010-07-01",28,60,1
+"Chuck Thier","cthier@gmail.com","Rackspace","2010-07-01",31068,106,27
+"John Dickinson","me@not.mn","Rackspace","2010-08-01",1094,4,12
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2013-03-01",699,73,1
+"Marcelo Martins","btorch@gmail.com","(Unknown)","2012-04-01",400,52,1
+"Chris Wedgwood","cw@f00f.org","(Unknown)","2011-01-01",20,19,9
+"Scott Simpson","sasimpson@gmail.com","(Unknown)","2012-10-01",336,68,1
+"Brian K. Jones","bkjones@gmail.com","(Unknown)","2010-07-01",83,72,5
+"Thierry Carrez","thierry@openstack.org","Rackspace","2011-04-01",3,3,6
+"FUJITA Tomonori","fujita.tomonori@lab.ntt.co.jp","NTT","2011-06-01",2,2,2
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-11-01",0,0,37
+"gholt","gholt@rackspace.com","Rackspace","2010-11-01",2431,1093,31
+"Jay Payne","letterj@racklabs.com","(Unknown)","2010-10-01",8,4,3
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-12-01",713,82,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2010-12-01",457,136,8
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2011-01-01",349,243,13
+"annegentle","anne@openstack.org","Rackspace","2011-03-01",320,41,4
+"Peter Portante","peter.portante@redhat.com","Red Hat","2013-04-01",245,105,4
+"Michael Barton","mike@weirdlooking.com","Rackspace","2010-09-01",14,18,3
+"Florian Hines","syn@ronin.io","Rackspace","2012-10-01",139,45,2
+"John Dickinson","me@not.mn","SwiftStack","2013-03-01",100,5,3
+"Florian Hines","florian.hines@gmail.com","Rackspace","2012-02-01",555,444,2
+"Mehdi Abaakouk","mehdi.abaakouk@enovance.com","eNovance","2013-01-01",17,4,1
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2013-04-01",2,0,1
+"Mark Gius","launchpad@markgius.com","(Unknown)","2011-09-01",147,50,3
+"Chuck Thier","cthier@gmail.com","Rackspace","2011-05-01",1,11,3
+"FUJITA Tomonori","fujita.tomonori@lab.ntt.co.jp","NTT","2011-02-01",17,22,3
+"Conrad Weidenkeller","conrad.weidenkeller@rackspace.com","Rackspace","2011-05-01",8,6,6
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2012-03-01",265,127,4
+"Brian Cline","bcline@softlayer.com","(Unknown)","2012-09-01",54,5,3
+"dk647","meizu647@gmail.com","(Unknown)","2012-09-01",423,353,6
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2011-02-01",3681,2878,44
+"Dan Dillinger","dan.dillinger@sonian.net","(Unknown)","2012-04-01",101,16,1
+"ywang19","yaguang.wang@intel.com","Intel","2013-03-01",1,1,1
+"tong li","litong01@us.ibm.com","IBM","2013-03-01",28,7,5
+"Michael Barton","mike@weirdlooking.com","Rackspace","2010-07-01",9137,25,11
+"John Dickinson","me@not.mn","Rackspace","2011-01-01",203,37,12
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-06-01",61,21,3
+"Kun Huang","academicgareth@gmail.com","(Unknown)","2013-02-01",123,19,4
+"Joe Gordon","jogo@cloudscaling.com","Cloudscaling","2013-02-01",25,24,1
+"David Hadas","davidh@il.ibm.com","IBM","2012-10-01",136,42,5
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2010-10-01",390,91,8
+"Guang Yee","guang.yee@hp.com","HP","2012-11-01",49,11,1
+"John Dickinson","me@not.mn","SwiftStack","2012-12-01",1,1,1
+"gholt","gholt@rackspace.com","Rackspace","2011-05-01",1576,5631,32
+"Michael Barton","mike@weirdlooking.com","Rackspace","2011-02-01",61,32,15
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-10-01",58,44,2
+"John Dickinson","me@not.mn","SwiftStack","2012-10-01",452,380,3
+"Flaper Fesp","flaper87@gmail.com","(Unknown)","2013-01-01",30,4,1
+"Unknown hacker","unknown@hacker.net","(Unknown)","2011-07-01",3,3,4
+"MORITA Kazutaka","morita.kazutaka@gmail.com","NTT","2011-12-01",1,1,1
+"Pete Zaitcev","zaitcev@kotori.zaitcev.us","Red Hat","2012-05-01",19,22,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2012-02-01",58,9,2
+"Maru Newby","mnewby@internap.com","Internap","2012-01-01",98,5,1
+"Julien Danjou","julien.danjou@enovance.com","eNovance","2012-04-01",10,5,3
+"Cory Wright","corywright@gmail.com","Rackspace","2010-08-01",16,16,2
+"Greg Lange","greglange@gmail.com","Rackspace","2010-11-01",239,68,3
+"Florian Hines","syn@ronin.io","Rackspace","2012-09-01",247,147,2
+"Sergey Kraynev","skraynev@mirantis.com","Mirantis","2013-04-01",16,27,2
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2010-07-01",118,59,19
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-01-01",0,0,8
+"Alex Yang","alex890714@gmail.com","(Unknown)","2012-08-01",49,17,3
+"gholt","gholt@rackspace.com","Rackspace","2012-02-01",45,12,4
+"Greg Lange","greglange@gmail.com","Rackspace","2012-03-01",1,1,1
+"Cory Wright","corywright@gmail.com","Rackspace","2013-01-01",6,5,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-07-01",85,320,11
+"Yee","mail.zhang.yee@gmail.com","(Unknown)","2012-11-01",0,14,1
+"annegentle","anne@openstack.org","Rackspace","2010-09-01",27,22,3
+"Florian Hines","florian.hines@gmail.com","Rackspace","2011-10-01",112,1,1
+"Greg Lange","greglange@gmail.com","Rackspace","2013-03-01",106,162,2
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2010-09-01",276,185,6
+"gholt","gholt@rackspace.com","Rackspace","2011-09-01",24,0,1
+"jola-mirecka","jola.mirecka@hp.com","HP","2012-11-01",109,15,1
+"Constantine Peresypkin","constantine@litestack.com","(Unknown)","2012-08-01",217,18,2
+"Andy McCrae","andy.mccrae@gmail.com","(Unknown)","2012-09-01",20,14,1
+"Scott Simpson","sasimpson@gmail.com","(Unknown)","2011-04-01",107,5,6
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2012-11-01",40,15,4
+"tong li","litong01@us.ibm.com","IBM","2012-11-01",459,90,1
+"Maru Newby","mnewby@internap.com","Internap","2011-12-01",4,4,1
+"Daniele Valeriani","daniele@dvaleriani.net","(Unknown)","2012-01-01",1,1,1
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2012-04-01",79,38,1
+"Jay Payne","letterj@racklabs.com","(Unknown)","2011-02-01",0,0,1
+"Pete Zaitcev","zaitcev@kotori.zaitcev.us","Red Hat","2013-03-01",85,59,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2011-09-01",18,13,1
+"Chuck Thier","cthier@gmail.com","Rackspace","2011-08-01",1,1,2
+"Greg Lange","greglange@gmail.com","Rackspace","2010-12-01",3,2,3
+"Leah Klearman","lklrmn@gmail.com","(Unknown)","2013-03-01",532,180,2
+"John Dickinson","me@not.mn","SwiftStack","2013-01-01",58,6,3
+"Greg Lange","greglange@gmail.com","Rackspace","2013-05-01",5,2,1
+"David Hadas","davidh@il.ibm.com","IBM","2013-02-01",63,58,2
+"John Dickinson","me@not.mn","Rackspace","2010-09-01",1167,472,47
+"Julien Danjou","julien.danjou@enovance.com","eNovance","2011-10-01",1,1,1
+"Darrell Bishop","darrell@swiftstack.com","SwiftStack","2012-12-01",508,358,2
+"David Goetz","david.goetz@rackspace.com","Rackspace","2012-09-01",91,13,2
+"Michael Barton","mike@weirdlooking.com","Rackspace","2012-10-01",5,6,1
+"Florian Hines","syn@ronin.io","Rackspace","2012-07-01",73,18,3
+"Ilya Kharin","ikharin@mirantis.com","Mirantis","2013-03-01",4,4,1
+"Soren Hansen","sorhanse@cisco.com","Cisco Systems","2012-09-01",2,1,1
+"Doug Weimer","dweimer@gmail.com","(Unknown)","2011-08-01",5,4,3
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2012-03-01",72,100,3
+"Brian Cline","bcline@softlayer.com","(Unknown)","2013-04-01",28,7,2
+"Chmouel Boudjnah","chmouel@enovance.com","eNovance","2013-01-01",122,57,5
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2011-09-01",0,0,1
+"Marcelo Martins","btorch@gmail.com","(Unknown)","2013-03-01",31,5,1
+"Kota Tsuyuzaki","tsuyuzaki.kota@lab.ntt.co.jp","NTT","2012-06-01",20,9,1
+"Darrell Bishop","darrell@swiftstack.com","SwiftStack","2012-02-01",6,3,1
+"Juan J. Martinez","juan@memset.com","Memset","2012-02-01",49,8,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2012-12-01",43,29,2
+"Marcelo Martins","btorch@gmail.com","(Unknown)","2011-08-01",0,0,1
+"Jay Payne","letterj@racklabs.com","(Unknown)","2010-11-01",29,7,3
+"Michael Barton","mike@weirdlooking.com","Rackspace","2010-08-01",3,4,2
+"Chmouel Boudjnah","chmouel@chmouel.com","eNovance","2012-11-01",2,2,1
+"Scott Simpson","sasimpson@gmail.com","(Unknown)","2011-07-01",6,4,2
+"Florian Hines","syn@ronin.io","Rackspace","2012-12-01",57,11,1
+"Josh Kearney","josh@jk0.org","Rackspace","2012-04-01",6,18,1
+"John Dickinson","me@not.mn","Rackspace","2011-10-01",6,12,1
+"Monty Taylor","mordred@inaugust.com","Rackspace","2010-07-01",17777,1583,49
+"Clay Gerrard","clay.gerrard@gmail.com","Rackspace","2010-12-01",828,85,14
+"Dan Prince","dprince@redhat.com","Red Hat","2012-09-01",1,1,1
+"gholt","gholt@rackspace.com","Rackspace","2011-11-01",282,135,6
+"John Dickinson","me@not.mn","SwiftStack","2012-06-01",58,4,1
+"Doug Hellmann","doug.hellmann@dreamhost.com","DreamHost","2012-10-01",1,0,1
+"gholt","gholt@rackspace.com","Rackspace","2012-06-01",890,989,8
+"tong li","litong01@us.ibm.com","IBM","2013-02-01",89,38,1
+"Dean Troyer","dtroyer@gmail.com","Rackspace","2012-03-01",9,9,1
+"John Dickinson","me@not.mn","SwiftStack","2013-04-01",5,2,2
+"Paul Jimenez","pj@place.org","(Unknown)","2010-09-01",7,5,2
+"Kun Huang","academicgareth@gmail.com","(Unknown)","2013-03-01",74,16,4
+"Samuel Merritt","sam@swiftstack.com","SwiftStack","2013-02-01",3,3,1
+"Zhongyue Luo","zhongyue.nah@intel.com","Intel","2013-01-01",5,5,1
+"Michael Shuler","mshuler@rackspace.com","Rackspace","2010-07-01",30,228,2
+"David Goetz","david.goetz@rackspace.com","Rackspace","2012-04-01",36,10,3
+"John Dickinson","me@not.mn","Rackspace","2011-06-01",55,3643,17
+"gholt","gholt@rackspace.com","Rackspace","2013-01-01",393,54,6
+"gholt","gholt@rackspace.com","Rackspace","2012-10-01",143,32,5
+"Pete Zaitcev","zaitcev@kotori.zaitcev.us","Red Hat","2012-04-01",12,8,3
+"Florian Hines","florian.hines@gmail.com","Rackspace","2011-07-01",587,5,2
+"Peter Portante","peter.portante@redhat.com","Red Hat","2013-05-01",73,69,1
+"Joe Arnold","joe@swiftstack.com","SwiftStack","2011-06-01",22,4,3
+"Thierry Carrez","thierry@openstack.org","Rackspace","2013-03-01",1,1,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-02-01",0,0,33
+"Iryoung Jeong","iryoung@gmail.com","(Unknown)","2012-06-01",316,72,3
+"Caleb Tennis","caleb.tennis@gmail.com","(Unknown)","2010-08-01",14,6,3
+"Florian Hines","syn@ronin.io","Rackspace","2012-08-01",4,4,1
+"Michael Barton","mike@weirdlooking.com","Rackspace","2012-05-01",446,446,1
+"Tom Fifield","fifieldt@unimelb.edu.au","University of Melbourne","2012-04-01",17,8,1
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2012-01-01",5,3,3
+"Greg Lange","greglange@gmail.com","Rackspace","2011-02-01",24,18,3
+"Wu Wenxiang","wu.wenxiang@99cloud.net","(Unknown)","2012-12-01",7,6,1
+"Eohyung Lee","liquid@kt.com","(Unknown)","2013-03-01",67,16,1
+"yuan-zhou","yuan.zhou@intel.com","Intel","2013-02-01",32,9,1
+"Florian Hines","syn@ronin.io","Rackspace","2013-01-01",27,3,1
+"Alex Yang","alex890714@gmail.com","(Unknown)","2012-09-01",24,13,1
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-03-01",1055,336,20
+"Florian Hines","florian.hines@gmail.com","Rackspace","2011-11-01",82,2,2
+"gholt","gholt@rackspace.com","Rackspace","2013-03-01",343,89,2
+"Peter Portante","peter.portante@redhat.com","Red Hat","2012-12-01",1,0,1
+"John Dickinson","me@not.mn","Rackspace","2011-04-01",16,2,5
+"John Dickinson","me@not.mn","Rackspace","2010-12-01",10,7,5
+"gholt","gholt@rackspace.com","Rackspace","2011-08-01",634,513,12
+"Chmouel Boudjnah","chmouel@chmouel.com","Rackspace","2012-05-01",75,4634,2
+"FUJITA Tomonori","fujita.tomonori@lab.ntt.co.jp","NTT","2010-12-01",2,1,2
+"gholt","gholt@rackspace.com","Rackspace","2012-04-01",31,8,5
+"David Goetz","david.goetz@rackspace.com","Rackspace","2011-05-01",565,641,19
+"Greg Lange","greglange@gmail.com","Rackspace","2011-04-01",274,83,23
+"gholt","gholt@rackspace.com","Rackspace","2011-04-01",162,47,20
+"gholt","gholt@rackspace.com","Rackspace","2011-01-01",939,355,43
+"lrqrun","lrqrun@gmail.com","(Unknown)","2012-08-01",83,34,1
+"Chuck Thier","cthier@gmail.com","Rackspace","2010-10-01",229,161,15
+"John Dickinson","me@not.mn","Rackspace","2012-02-01",92,56,6

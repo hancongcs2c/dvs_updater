@@ -31,8 +31,8 @@ public class Insert_to_DB {
 		community = ssArray[0];
 		project = ssArray[1];
 		//打印
-		System.out.println("------------------" + community + "-" + project
-				+ "--START--------------------------");
+		System.out.println(community + "-" + project
+				+ " START...");
 		// 清空就的数据
 		try {
 			conn = new DataDAO().getConnection();
@@ -52,7 +52,7 @@ public class Insert_to_DB {
 			//打印，这是最需要打印的信息
 			
 			while (line != null) {
-				System.out.println(line);
+				System.out.println(".");
 				String[] sArray = line.split(",");
 
 				String name = sArray[0].substring(1, sArray[0].length() - 1);
@@ -79,8 +79,8 @@ public class Insert_to_DB {
 			}
 
 			//打印
-			System.out.println("------------------" + community + "-" + project
-					+ "--END-----------------------------");
+			System.out.println("..." + community + "-" + project
+					+ " END");
 			System.out.println("\n\n");
 		} catch (SQLException e) {
 			e.printStackTrace();

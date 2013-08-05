@@ -1,0 +1,352 @@
+"Name","Email","Affliation","Date","Added","Removed","Changesets"
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-05-01",0,0,8
+"Zhongyue Luo","zhongyue.nah@intel.com","Intel","2012-12-01",3,8,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-07-01",1466,1084,14
+"Mark McLoughlin","markmc@redhat.com","Red Hat","2012-07-01",3,2,1
+"Sascha Peilicke","saschpe@suse.de","SUSE","2012-06-01",111,3,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-09-01",0,0,11
+"Nicolas Simonds","nic@metacloud.com","Metacloud","2013-01-01",12,4,2
+"Joe Heck","heckj@mac.com","Nebula","2011-08-01",236,24,3
+"Yuriy Taraday","yorik.sar@gmail.com","Mirantis","2011-06-01",39,32,5
+"Toshiyuki Hayashi","hayashi@nttmcl.com","NTT","2013-03-01",21,11,1
+"Monty Taylor","mordred@inaugust.com","HP","2013-04-01",68,557,2
+"Cole Robinson","crobinso@redhat.com","Red Hat","2012-03-01",3,1,1
+"Thierry Carrez","thierry@openstack.org","Rackspace","2012-06-01",3,3,1
+"jakedahn","jake@ansolabs.com","Rackspace","2012-02-01",147,31,12
+"Clark Boylan","clark.boylan@gmail.com","Intel","2012-08-01",7,0,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2011-08-01",122,102,3
+"Matthias Runge","mrunge@redhat.com","Red Hat","2012-12-01",116,12,2
+"Tres Henry","tres@treshenry.net","Nebula","2012-05-01",7,8,2
+"Tres Henry","tres@treshenry.net","Nebula","2011-09-01",0,0,1
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2012-03-01",1,1,1
+"Anthony Young","sleepsonthefloor@gmail.com","Rackspace","2011-08-01",491,92,23
+"Julien Danjou","julien.danjou@enovance.com","eNovance","2011-12-01",16,86,2
+"Nathan Reller","nathan.reller@jhuapl.edu","(Unknown)","2013-02-01",136,5,1
+"Tzu-Mainn Chen","tzumainn@redhat.com","Red Hat","2013-04-01",2,2,1
+"yuanke wei","weiyuanke123@gmail.com","(Unknown)","2012-06-01",0,0,1
+"Matthias Runge","mrunge@redhat.com","Red Hat","2012-11-01",22,0,1
+"Victoria Martínez de la Cruz","vickymsee@gmail.com","(Unknown)","2013-02-01",2,2,1
+"Brian Waldon","brian.waldon@rackspace.com","Rackspace","2012-09-01",1,1,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-10-01",532,229,4
+"Matthias Runge","mrunge@redhat.com","Red Hat","2013-02-01",13,4,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-05-01",8857,4846,16
+"Malini Bhandaru","malini.k.bhandaru@intel.com","Intel","2012-12-01",111,30,1
+"Julie Pichon","jpichon@redhat.com","Red Hat","2013-04-01",1,2,2
+"Akihiro MOTOKI","motoki@da.jp.nec.com","NEC","2012-11-01",94,7,1
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2013-02-01",3,1,1
+"Akihiro MOTOKI","motoki@da.jp.nec.com","NEC","2012-08-01",438,88,4
+"Neil Johnston","onewheeldrive.net@gmail.com","(Unknown)","2011-12-01",243,10,3
+"David Lyle","david.lyle@hp.com","HP","2013-05-01",1,1,1
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-06-01",17,5,23
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-10-01",0,0,9
+"Mark Gius","launchpad@markgius.com","(Unknown)","2011-09-01",0,0,1
+"Anton V. Yanchenko","simplylizz@gmail.com","Mirantis","2012-07-01",8,6,2
+"Joe Heck","heckj@mac.com","Nebula","2012-05-01",15,6,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-01-01",20061,9777,39
+"Alexey Izbyshev","izbyshev@ispras.ru","(Unknown)","2013-03-01",1,2,1
+"Toshiyuki Hayashi","hayashi@nttmcl.com","NTT","2013-02-01",114,106,1
+"Cole Robinson","crobinso@redhat.com","Red Hat","2012-01-01",29,59,2
+"Andy Chong","andycjw@gmail.com","Delta Electronics","2012-03-01",2633,2724,44
+"Julie Pichon","jpichon@redhat.com","Red Hat","2012-11-01",218,2,4
+"Julie Pichon","julie.pichon@gmail.com","Red Hat","2012-07-01",62,5,2
+"Mark Gius","launchpad@markgius.com","(Unknown)","2011-05-01",190,80,17
+"Kieran Spear","kispear@gmail.com","University of Melbourne","2012-11-01",220,39,4
+"Aaron Rosen","arosen@nicira.com","Nicira","2013-02-01",1,1,1
+"Mike Scherbakov","mihgen@gmail.com","(Unknown)","2011-05-01",34,21,2
+"Joe Heck","heckj@mac.com","Nebula","2011-07-01",3,3,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-10-01",9943,2447,18
+"Matthias Runge","mrunge@redhat.com","Red Hat","2013-04-01",53,70,3
+"Joe Gordon","jogo@cloudscaling.com","Cloudscaling","2013-01-01",13,11,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-12-01",2042,2363,22
+"Tom Fifield","fifieldt@unimelb.edu.au","University of Melbourne","2012-05-01",9,9,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-05-01",386,36,4
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-02-01",0,0,41
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2011-12-01",0,0,28
+"Todd Willey","todd@ansolabs.com","Rackspace","2011-07-01",84,12,3
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-03-01",7197,1094,22
+"Arvind Somya","asomya@cisco.com","Cisco Systems","2011-09-01",456,312,3
+"Kelsey Tripp","kelsey.tripp@nebula.com","Nebula","2012-06-01",11,3,2
+"James Slagle","james.slagle@gmail.com","(Unknown)","2013-04-01",98,19,2
+"Thierry Carrez","thierry@openstack.org","Rackspace","2012-09-01",1,1,1
+"jeffjapan","jeffjapan@gmail.com","Midokura","2011-10-01",16025,4695,14
+"Joe Heck","heckj@mac.com","Nebula","2012-01-01",4,0,1
+"Julien Danjou","julien.danjou@enovance.com","eNovance","2012-03-01",53,45,5
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-11-01",347,291,6
+"Tres Henry","tres@treshenry.net","Nebula","2012-12-01",2,1,1
+"Ewan Mellor","ewan.mellor@citrix.com","Citrix","2011-12-01",12,4,5
+"Lin Hua Cheng","lin-hua.cheng@hp.com","HP","2012-06-01",12,4,2
+"Imre Farkas","ifarkas@redhat.com","Red Hat","2013-05-01",2,2,1
+"Mike Perez","thingee@gmail.com","DreamHost","2012-03-01",6,6,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-04-01",0,0,18
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2012-06-01",1,1,1
+"Lin Hua Cheng","lin-hua.cheng@hp.com","HP","2013-02-01",76,29,3
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-06-01",0,0,38
+"Brian Waldon","brian.waldon@rackspace.com","Rackspace","2013-01-01",39,103,3
+"Tres Henry","tres@treshenry.net","Nebula","2012-08-01",90,68,2
+"Lin Hua Cheng","lin-hua.cheng@hp.com","HP","2013-01-01",8,6,3
+"Julie Pichon","jpichon@redhat.com","Red Hat","2013-02-01",305,51,7
+"jakedahn","jake@ansolabs.com","Rackspace","2012-05-01",42,4,2
+"Michael Szilagyi","mszilagyi@gmail.com","(Unknown)","2011-06-01",9,11,3
+"Lin Hua Cheng","lin-hua.cheng@hp.com","HP","2013-04-01",30,20,2
+"Joe Heck","heckj@mac.com","Nebula","2011-09-01",261,167,10
+"Andrews Medina","andrewsmedina@gmail.com","(Unknown)","2012-02-01",122,0,4
+"Ken Pepple","ken.pepple@gmail.com","Internap","2011-01-01",3,1,1
+"Monty Taylor","mordred@inaugust.com","HP","2012-07-01",5,17,2
+"jeffjapan","jeffjapan@gmail.com","Midokura","2011-04-01",3,2,3
+"Tres Henry","tres@treshenry.net","Nebula","2012-03-01",146,34,6
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2012-03-01",3,0,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-08-01",0,0,33
+"Matt Joyce","matt.joyce@cloudscaling.com","Cloudscaling","2012-08-01",24,6,2
+"Sean Dague","sdague@linux.vnet.ibm.com","IBM","2013-02-01",1,1,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-01-01",0,0,27
+"John Postlethwait","john.postlethwait@nebula.com","Nebula","2012-04-01",75,27,2
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-12-01",84,8,1
+"Jesse Andrews","anotherjesse@gmail.com","Rackspace","2011-06-01",0,11,1
+"Tres Henry","tres@treshenry.net","Nebula","2011-06-01",510,44,2
+"James E. Blair","jeblair@openstack.org","HP","2011-10-01",149,0,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-06-01",4407,4072,25
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2011-11-01",3892,2829,24
+"Rafi Khardalian","rafi@metacloud.com","Metacloud","2013-03-01",0,5,1
+"Carlo Truijllo","truijllo@crs4.it","(Unknown)","2011-10-01",4,3,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-05-01",0,0,19
+"Duncan McGreggor","duncan@dreamhost.com","DreamHost","2011-11-01",0,0,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-04-01",60,21,11
+"Anthony Young","sleepsonthefloor@gmail.com","Rackspace","2012-01-01",308,669,8
+"Yuriy Taraday","yorik.sar@gmail.com","Mirantis","2011-04-01",14,1,2
+"Hengqing Hu","hudayou@hotmail.com","(Unknown)","2012-03-01",53,52,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-12-01",22,33,1
+"Matthias Runge","mrunge@redhat.com","Red Hat","2013-01-01",4,1,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-08-01",1970,353,36
+"Thierry Carrez","thierry@openstack.org","Rackspace","2012-08-01",3,1,1
+"Monty Taylor","mordred@inaugust.com","HP","2012-02-01",7,7,1
+"Brian Waldon","brian.waldon@rackspace.com","Rackspace","2012-10-01",48,31,6
+"jakedahn","jake@ansolabs.com","Rackspace","2011-02-01",16,8,2
+"Kieran Spear","kispear@gmail.com","University of Melbourne","2013-01-01",872,227,6
+"Vincent Untz","vuntz@suse.com","SUSE","2012-07-01",5,1,1
+"Matt Wagner","matt.wagner@redhat.com","Red Hat","2013-05-01",3,3,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-04-01",127,21,3
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-03-01",19687,14579,49
+"John Postlethwait","john.postlethwait@nebula.com","Nebula","2012-07-01",2,1,1
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-07-01",579,23,39
+"Tatiana Mazur","tmazur@mirantis.com","Mirantis","2013-03-01",62,21,1
+"Daniel P. Berrange","berrange@redhat.com","Red Hat","2013-01-01",130,41,1
+"Jesse Andrews","anotherjesse@gmail.com","Rackspace","2011-08-01",2,2,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-03-01",0,0,98
+"Alessio Ababilov","aababilov@griddynamics.com","Grid Dynamics","2012-07-01",0,1,1
+"Akihiro MOTOKI","motoki@da.jp.nec.com","NEC","2013-01-01",3532,1845,3
+"Akihiro MOTOKI","motoki@da.jp.nec.com","NEC","2013-05-01",4,3,1
+"Erwan Gallen","dev@zinux.com","(Unknown)","2012-05-01",573,598,1
+"Jake Zukowski","jake@ponyloaf.com","(Unknown)","2012-02-01",13,12,4
+"Todd Willey","todd@ansolabs.com","Rackspace","2011-03-01",16,5,11
+"Jiang Yong","jiangyong.hn@gmail.com","(Unknown)","2012-12-01",3,0,1
+"Dirk Mueller","dirk@dmllr.de","(Unknown)","2013-01-01",5,0,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-04-01",0,0,18
+"Zhongyue Luo","lzyeval@gmail.com","SINA","2012-01-01",5,7,1
+"Bernhard M. Wiedemann","bwiedemann@suse.de","SUSE","2012-04-01",2,1,1
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2012-08-01",1,1,1
+"Tomas Sedovic","tomas@sedovic.cz","(Unknown)","2013-05-01",4,0,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2013-01-01",8,10,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2013-04-01",469,353,1
+"jakedahn","jake@ansolabs.com","Nebula","2012-08-01",49,15,2
+"zhang-hare","zhuadl@cn.ibm.com","IBM","2012-04-01",515,495,1
+"Mike Perez","thingee@gmail.com","DreamHost","2012-02-01",25,2,2
+"Nicolas Simonds","nic@metacloud.com","Metacloud","2012-10-01",10,3,1
+"Emma Steimann","emmasteimann@gmail.com","(Unknown)","2012-04-01",24,1,1
+"David Lyle","david.lyle@hp.com","HP","2013-02-01",2,3,2
+"Todd Willey","todd@ansolabs.com","Rackspace","2011-05-01",17,18,4
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-01-01",6760,35,17
+"Adam Gandelman","adam.gandelman@canonical.com","Canonical","2012-09-01",1,4,1
+"Mark Gius","launchpad@markgius.com","(Unknown)","2011-07-01",2967,293,30
+"Sam Morrison","sorrison@gmail.com","University of Melbourne","2012-05-01",6,2,1
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2012-02-01",34,248,4
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-12-01",0,0,10
+"Anastasia Karpinska","akarpinska@griddynamics.com","Grid Dynamics","2013-04-01",4,0,1
+"Monty Taylor","mordred@inaugust.com","HP","2012-06-01",2,0,1
+"Ionuț Arțăriși","iartarisi@suse.cz","SUSE","2012-11-01",4,10,1
+"Mike Perez","thingee@gmail.com","DreamHost","2012-01-01",307,14,1
+"jeffjapan","jeffjapan@gmail.com","Midokura","2011-05-01",0,0,1
+"Anthony Young","sleepsonthefloor@gmail.com","Rackspace","2011-07-01",530,222,33
+"Nachi Ueno","ueno.nachi@lab.ntt.co.jp","NTT","2012-09-01",2747,7,2
+"Tres Henry","tres@treshenry.net","Nebula","2012-02-01",639,174,4
+"Brooklyn Chen","brooklyn.chen@canonical.com","Canonical","2013-02-01",8,2,2
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2011-12-01",18,3,3
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-02-01",0,0,36
+"Vishvananda Ishaya","vishvananda@gmail.com","Rackspace","2011-06-01",2,2,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-09-01",915,285,46
+"Alexey Izbyshev","izbyshev@ispras.ru","(Unknown)","2012-11-01",26,29,1
+"Ke Wu","ke.wu@ibeca.me","Nebula","2012-08-01",191,32,2
+"Kannan Manickam","arangamani.kannan@gmail.com","(Unknown)","2013-04-01",19,3,2
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-08-01",14598,7081,26
+"Victoria Martínez de la Cruz","vickymsee@gmail.com","(Unknown)","2013-01-01",63,17,4
+"Ke Wu","ke.wu@ibeca.me","Nebula","2012-05-01",21,5,3
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-09-01",86,4,1
+"Aaron Rosen","arosen@nicira.com","Nicira","2013-03-01",1,1,1
+"Tres Henry","tres@treshenry.net","Nebula","2011-07-01",139,96,5
+"Joshua McKenty","jmckenty@gmail.com","Piston Cloud","2012-03-01",10,1,1
+"Victoria Martínez de la Cruz","vickymsee@gmail.com","(Unknown)","2012-12-01",45,1,1
+"Dan Wendlandt","dan@nicira.com","Nicira","2012-08-01",1,1,1
+"jakedahn","jake@ansolabs.com","Rackspace","2012-01-01",599,68,6
+"Monty Taylor","mordred@inaugust.com","HP","2012-05-01",283,173,1
+"Jesse Andrews","anotherjesse@gmail.com","Rackspace","2012-03-01",2,0,1
+"Julie Pichon","jpichon@redhat.com","Red Hat","2013-03-01",41,66,2
+"Yuriy Taraday","yorik.sar@gmail.com","Mirantis","2011-05-01",18,28,8
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2012-05-01",75,4,1
+"Alexey Izbyshev","izbyshev@ispras.ru","(Unknown)","2013-01-01",11,12,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-02-01",355,87,8
+"Joe Topjian","joe@topjian.net","(Unknown)","2013-02-01",5,5,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2011-10-01",22684,23022,24
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2011-11-01",0,0,14
+"Joe Heck","heckj@mac.com","Nebula","2011-10-01",877,138,5
+"Ray Chen","oldsharp@163.com","(Unknown)","2012-08-01",31,21,1
+"jakedahn","jake@ansolabs.com","Rackspace","2012-07-01",1,0,1
+"Toshiyuki Hayashi","hayashi@nttmcl.com","NTT","2013-01-01",283,2,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-02-01",10730,23810,31
+"Sam Stoelinga","sammiestoel@gmail.com","(Unknown)","2013-01-01",578,7,1
+"jeffjapan","jeffjapan@gmail.com","Midokura","2011-09-01",176,631,1
+"Tomasz 'Zen' Napierala","tomasz@napierala.org","(Unknown)","2011-09-01",666,169,2
+"Tres Henry","tres@treshenry.net","Nebula","2012-06-01",6,1,1
+"Julien Danjou","julien.danjou@enovance.com","eNovance","2011-11-01",8,13,4
+"John Postlethwait","john.postlethwait@nebula.com","Nebula","2012-03-01",658,380,11
+"Arvind Somya","asomya@cisco.com","Cisco Systems","2011-08-01",2076,926,13
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2012-01-01",782,856,13
+"Kelsey Tripp","kelsey.tripp@nebula.com","Nebula","2012-07-01",1913,341,2
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-11-01",0,0,21
+"jakedahn","jake@ansolabs.com","Rackspace","2011-03-01",45,25,9
+"Neil Johnston","onewheeldrive.net@gmail.com","(Unknown)","2011-11-01",10,0,2
+"John Postlethwait","john.postlethwait@nebula.com","Nebula","2012-06-01",1270,497,13
+"Kylin CG","kylin7.sg@gmail.com","(Unknown)","2012-10-01",6,6,1
+"Wu Wenxiang","wu.wenxiang@99cloud.net","(Unknown)","2013-03-01",134,113,4
+"Cody A.W. Somerville","cody.somerville@hp.com","HP","2013-01-01",197,7,2
+"Matthias Runge","mrunge@redhat.com","Red Hat","2013-03-01",13,2,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-06-01",929,490,55
+"Jay Pipes","jaypipes@gmail.com","AT&T","2012-06-01",4,1,1
+"Jay Pipes","jaypipes@gmail.com","Rackspace","2011-09-01",1,1,1
+"John Postlethwait","john.postlethwait@nebula.com","Nebula","2012-05-01",9068,5101,6
+"Ivan Kolodyazhny","e0ne@e0ne.info","Mirantis","2011-08-01",1,1,1
+"Matt Joyce","matt.joyce@cloudscaling.com","Cloudscaling","2012-06-01",45,36,5
+"Ionuț Arțăriși","iartarisi@suse.cz","SUSE","2012-09-01",4,3,1
+"Zhongyue Luo","lzyeval@gmail.com","SINA","2012-06-01",149,10,1
+"Jesse Pretorius","jesse.pretorius@gmail.com","(Unknown)","2013-02-01",30,1,3
+"Ionuț Arțăriși","iartarisi@suse.cz","SUSE","2012-03-01",35,3,3
+"Akihiro MOTOKI","motoki@da.jp.nec.com","NEC","2013-03-01",185,336,2
+"Ilya Shakhat","ishakhat@mirantis.com","Mirantis","2013-03-01",91,34,1
+"Mark Gius","launchpad@markgius.com","(Unknown)","2011-06-01",2870,1591,65
+"Kun Huang","academicgareth@gmail.com","(Unknown)","2013-02-01",8,8,1
+"Zhongyue Luo","lzyeval@gmail.com","SINA","2011-12-01",54,0,1
+"Tres Henry","tres@treshenry.net","Nebula","2011-12-01",220,170,3
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-06-01",393,75,8
+"Monty Taylor","mordred@inaugust.com","Rackspace","2011-01-01",7,0,1
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-05-01",2116,2041,16
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-09-01",30483,6836,8
+"James E. Blair","jeblair@openstack.org","HP","2012-04-01",8,5,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-07-01",0,0,18
+"Sascha Peilicke","saschpe@suse.de","SUSE","2013-02-01",3,0,1
+"Anita Kuno","akuno@lavabit.com","(Unknown)","2013-02-01",1,0,1
+"Akihiro MOTOKI","motoki@da.jp.nec.com","NEC","2012-07-01",4849,11,1
+"Clark Boylan","clark.boylan@gmail.com","Intel","2012-06-01",13,8,1
+"Kieran Spear","kispear@gmail.com","University of Melbourne","2013-03-01",112,61,5
+"Kieran Spear","kispear@gmail.com","University of Melbourne","2012-12-01",97,3,1
+"Alessio Ababilov","aababilov@griddynamics.com","Grid Dynamics","2011-10-01",2,2,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2013-03-01",0,0,37
+"Brian Waldon","brian.waldon@rackspace.com","Rackspace","2012-07-01",8,8,1
+"Tres Henry","tres@treshenry.net","Nebula","2011-10-01",0,0,8
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2013-03-01",46470,24253,10
+"Mark McLoughlin","markmc@redhat.com","Red Hat","2013-03-01",0,145,1
+"Vishvananda Ishaya","vishvananda@gmail.com","Rackspace","2012-03-01",31,30,1
+"Michael Szilagyi","mszilagyi@gmail.com","(Unknown)","2011-07-01",237,18,4
+"Emma Steimann","emmasteimann@gmail.com","(Unknown)","2012-02-01",414,313,3
+"ericpeterson-l","ericpeterson@hp.com","HP","2013-01-01",12,0,1
+"Jenkins","jenkins@review.openstack.org","(Unknown)","2012-01-01",0,0,36
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-09-01",473,43,30
+"termie","code@term.ie","Rackspace","2011-06-01",8460,11393,41
+"Monty Taylor","mordred@inaugust.com","HP","2013-02-01",189,144,1
+"KC Wang","kc.wang@bigswitch.com","(Unknown)","2013-02-01",2317,10,1
+"Rosario Di Somma","rosario.disomma@dreamhost.com","DreamHost","2012-08-01",5,5,1
+"Ke Wu","ke.wu@ibeca.me","Nebula","2012-07-01",843,246,2
+"EmilienM","emilien.macchi@enovance.com","eNovance","2013-03-01",2,2,1
+"Joe Heck","heckj@mac.com","Nebula","2011-11-01",962,4,4
+"Julie Pichon","jpichon@redhat.com","Red Hat","2013-01-01",96,3,4
+"Jake Zukowski","jake@ponyloaf.com","(Unknown)","2012-01-01",1,1,1
+"Sascha Peilicke","saschpe@suse.de","SUSE","2012-07-01",18,6,1
+"Flavio Percoco","fpercoco@redhat.com","Red Hat","2013-01-01",41,41,2
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-03-01",787,502,10
+"Alessio Ababilov","aababilov@griddynamics.com","Grid Dynamics","2011-07-01",131,169,7
+"jeffjapan","jeffjapan@gmail.com","Midokura","2011-03-01",4,4,2
+"Ghe Rivero","ghe@debian.org","StackOps","2012-03-01",4,0,1
+"J. Daniel Schmidt","jdsn@suse.de","SUSE","2012-04-01",10,9,2
+"Lin Hua Cheng","lin-hua.cheng@hp.com","HP","2013-03-01",338,174,9
+"Tres Henry","tres@treshenry.net","Nebula","2012-01-01",330,214,6
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-04-01",16927,13581,18
+"Paul McMillan","paul.mcmillan@nebula.com","Nebula","2012-04-01",6,6,1
+"Anthony Young","sleepsonthefloor@gmail.com","Rackspace","2011-09-01",780,380,22
+"Victoria Martínez de la Cruz","vickymsee@gmail.com","(Unknown)","2013-03-01",59,0,1
+"Ewan Mellor","ewan.mellor@citrix.com","Citrix","2011-11-01",3,3,1
+"Jesse Andrews","anotherjesse@gmail.com","Rackspace","2011-12-01",17,29,1
+"jeffjapan","jeffjapan@gmail.com","Midokura","2011-07-01",13,2,3
+"Malini Bhandaru","malini.k.bhandaru@intel.com","Intel","2012-10-01",499,6,1
+"Roman Podolyaka","rpodolyaka@mirantis.com","Mirantis","2013-04-01",72,4,1
+"Nicolas Simonds","nic@metacloud.com","Metacloud","2012-11-01",1,1,1
+"Kieran Spear","kispear@gmail.com","University of Melbourne","2013-04-01",3,1,1
+"Jim Yeh","lemonlatte@gmail.com","(Unknown)","2012-03-01",1259,988,5
+"Carlo Truijllo","truijllo@crs4.it","(Unknown)","2011-08-01",197,26,5
+"Lin Hua Cheng","lin-hua.cheng@hp.com","HP","2012-11-01",20,5,2
+"Thierry Carrez","thierry@openstack.org","Rackspace","2012-03-01",3,2,2
+"Tres Henry","tres@treshenry.net","Nebula","2012-04-01",259,24,4
+"Matthias Runge","mrunge@redhat.com","Red Hat","2012-10-01",2,2,1
+"Todd Willey","todd@ansolabs.com","Rackspace","2011-04-01",1764,15,8
+"David Lyle","david.lyle@hp.com","HP","2013-03-01",203,97,4
+"Hidekazu Nakamura","nakamura-h@mxd.nes.nec.co.jp","NEC","2013-03-01",1,1,1
+"Brian Waldon","brian.waldon@rackspace.com","Rackspace","2012-08-01",2,2,2
+"Mark Gius","launchpad@markgius.com","(Unknown)","2011-08-01",1,2,2
+"jakedahn","jake@ansolabs.com","Rackspace","2011-07-01",3726,3927,62
+"Kieran Spear","kispear@gmail.com","University of Melbourne","2013-02-01",227,82,5
+"Julie Pichon","jpichon@redhat.com","Red Hat","2012-12-01",294,43,3
+"Yanping Xie","irsxyp@gmail.com","(Unknown)","2013-01-01",1,1,1
+"Tatiana Mazur","tmazur@mirantis.com","Mirantis","2013-04-01",236,25,2
+"Julie Pichon","jpichon@redhat.com","Red Hat","2013-05-01",29133,1951,1
+"James E. Blair","jeblair@openstack.org","OpenStack Foundation","2012-12-01",1,0,1
+"Kelsey Tripp","kelsey.tripp@nebula.com","Nebula","2012-08-01",645,246,12
+"Akihiro MOTOKI","motoki@da.jp.nec.com","NEC","2013-02-01",290,105,2
+"Doug Hellmann","doug.hellmann@dreamhost.com","DreamHost","2012-10-01",2,1,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-11-01",104,19,2
+"Dean Troyer","dtroyer@gmail.com","Rackspace","2012-03-01",1,7,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2011-09-01",865,772,11
+"Chuck Short","zulcss@ubuntu.com","Canonical","2011-11-01",0,65,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-01-01",804,3079,9
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-02-01",18,22,6
+"Tres Henry","tres@treshenry.net","Nebula","2011-11-01",869,163,9
+"jakedahn","jake@ansolabs.com","Rackspace","2012-03-01",2287,1988,6
+"Michael Still","mikal@stillhq.com","Canonical","2012-10-01",209,49,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-07-01",491,76,9
+"Nicolas Simonds","nic@metacloud.com","Metacloud","2012-12-01",9,5,1
+"Christian Berendt","berendt@b1-systems.de","(Unknown)","2012-11-01",22,5,1
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-04-01",1,1,2
+"Jesse Andrews","anotherjesse@gmail.com","Rackspace","2011-09-01",16,24,6
+"Zhenguo Niu","niu.zglinux@gmail.com","(Unknown)","2013-03-01",3,0,1
+"Clark Boylan","clark.boylan@gmail.com","Intel","2012-07-01",11,3,1
+"jakedahn","jake@ansolabs.com","Rackspace","2011-05-01",13,7,8
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2011-12-01",2382,464,27
+"Doug Doan","dougdoan@gmail.com","(Unknown)","2011-08-01",1,0,1
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2013-02-01",815,904,5
+"Ke Wu","ke.wu@ibeca.me","Nebula","2012-06-01",493,120,3
+"Vishvananda Ishaya","vishvananda@gmail.com","Rackspace","2012-02-01",42,15,1
+"Sam Morrison","sorrison@gmail.com","University of Melbourne","2012-06-01",6,8,1
+"Emma Steimann","emmasteimann@gmail.com","(Unknown)","2012-03-01",1834,1361,7
+"Sam Morrison","sorrison@gmail.com","University of Melbourne","2012-04-01",7,0,1
+"Lin Hua Cheng","lin-hua.cheng@hp.com","HP","2012-07-01",24,4,1
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-08-01",0,0,23
+"Gabriel Hurley","gabriel@strikeawe.com","Nebula","2012-10-01",56996,54270,7
+"termie","code@term.ie","Rackspace","2011-07-01",132,183,2
+"Ziad Sawalha","github@highbridgellc.com","Rackspace","2011-06-01",1,1,1
+"Tihomir Trifonov","t.trifonov@gmail.com","Everbread","2012-08-01",83,8,2
+"Jay Pipes","jaypipes@gmail.com","HP","2011-12-01",38,26,1
+"Arvind Somya","asomya@cisco.com","Cisco Systems","2011-12-01",1,1,1
+"jeffjapan","jeffjapan@gmail.com","Midokura","2011-06-01",8112,1274,20
+"Devin Carlen","devin.carlen@gmail.com","Nebula","2011-10-01",33,37,21
+"Anthony Young","sleepsonthefloor@gmail.com","Rackspace","2011-06-01",1818,467,106
+"Rafi Khardalian","rafi@metacloud.com","Metacloud","2012-09-01",1,0,1
+"Stephane Angot","sa@hydre.org","(Unknown)","2011-12-01",6,5,1
+"Emma Steimann","emmasteimann@gmail.com","(Unknown)","2012-01-01",40,5,4
+"jakedahn","jake@ansolabs.com","Rackspace","2011-11-01",923,1941,10
+"lrqrun","lrqrun@gmail.com","(Unknown)","2012-08-01",3,4,1
+"Greg Althaus","galthaus@austin.rr.com","(Unknown)","2012-03-01",2,1,1
